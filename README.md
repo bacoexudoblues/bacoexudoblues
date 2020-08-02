@@ -23,17 +23,14 @@
   <a rel="nofollow noopener noreferrer" target="_blank" href="https://www.linkedin.com/in/gabriel-nogueira-dev-full-stack/">
   <img src="https://raw.githubusercontent.com/TanZng/TanZng/master/assets/linkedin.png" width="30px" alt="LinkedIn"></a>
   &nbsp; &nbsp;
-  <a rel="nofollow noopener noreferrer" target="_blank" href="https://twitter.com/tanx_dev">
+  <a rel="nofollow noopener noreferrer" target="_blank" href="https://twitter.com/shantollas">
   <img src="https://raw.githubusercontent.com/TanZng/TanZng/master/assets/twitter.png" width="30px" alt="Twitter"></a>
   &nbsp; &nbsp;
-  <a rel="nofollow noopener noreferrer" target="_blank" href="https://www.hackerrank.com/tanx_dev">
+  <a rel="nofollow noopener noreferrer" target="_blank" href="https://www.hackerrank.com/gabriel_nogueir3">
   <img src="https://raw.githubusercontent.com/TanZng/TanZng/master/assets/hackerrank.png" width="30px" alt="HackerRank"></a>
-  &nbsp; &nbsp;
-  <a rel="nofollow noopener noreferrer" target="_blank" href="https://leetcode.com/tan_dev/">
-  <img src="https://raw.githubusercontent.com/TanZng/TanZng/master/assets/leetcode.png" width="30px" alt="LeetCode"></a>
   &nbsp;
   &nbsp;
-  <a rel="nofollow noopener noreferrer" target="_blank" href="https://tanx.dev/estus-flask">
+  <a rel="nofollow noopener noreferrer" target="_blank" href="http://www.republiquedesmangues.fr/">
   <img src="https://raw.githubusercontent.com/TanZng/TanZng/master/assets/estus_flask.png" width="23px" alt="Secret"></a>
 </p> 
 
@@ -41,4 +38,4 @@
 </samp>
 </details>
 
-⭐️ From [TanZng](https://github.com/TanZng)
+⭐️ From [DevMorfeu](https://github.com/devmorfeu)
