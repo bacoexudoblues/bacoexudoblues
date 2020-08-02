@@ -37,5 +37,3 @@
 
 </samp>
 </details>
-
-⭐️ From [DevMorfeu](https://github.com/devmorfeu)
