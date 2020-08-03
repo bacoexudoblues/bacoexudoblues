@@ -2,7 +2,7 @@
   <br>
   <samp>
     Hello there! I'm <b><a rel="nofollow noopener noreferrer" target="_blank" href="https://tanx.dev">Gabriel</a></b>.
-    <br>I'm a analysis and systems development Undergraduate Student from Brasil.<br>
+    <br>I'm a System Analysis and Development undergraduate student.<br>
 
 </samp>
 
