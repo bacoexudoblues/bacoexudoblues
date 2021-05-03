@@ -25,9 +25,6 @@
   &nbsp; &nbsp;
   <a rel="nofollow noopener noreferrer" target="_blank" href="https://twitter.com/shantollas">
   <img src="https://raw.githubusercontent.com/TanZng/TanZng/master/assets/twitter.png" width="30px" alt="Twitter"></a>
-  &nbsp; &nbsp;
-  <a rel="nofollow noopener noreferrer" target="_blank" href="https://www.hackerrank.com/gabriel_nogueir3">
-  <img src="https://raw.githubusercontent.com/TanZng/TanZng/master/assets/hackerrank.png" width="30px" alt="HackerRank"></a>
   &nbsp;
   &nbsp;
   <a rel="nofollow noopener noreferrer" target="_blank" href="http://www.republiquedesmangues.fr/">
