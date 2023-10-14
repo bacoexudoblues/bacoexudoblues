@@ -20,11 +20,8 @@
 <img src="https://raw.githubusercontent.com/TanZng/TanZng/master/assets/bonefire.gif" width="200"/>
 
 <p align="center">
-  <a rel="nofollow noopener noreferrer" target="_blank" href="https://www.linkedin.com/in/gabriel-nogueira-dev-full-stack/">
+  <a rel="nofollow noopener noreferrer" target="_blank" href="https://www.linkedin.com/in/gabadev/">
   <img src="https://raw.githubusercontent.com/TanZng/TanZng/master/assets/linkedin.png" width="30px" alt="LinkedIn"></a>
-  &nbsp; &nbsp;
-  <a rel="nofollow noopener noreferrer" target="_blank" href="https://twitter.com/shantollas">
-  <img src="https://raw.githubusercontent.com/TanZng/TanZng/master/assets/twitter.png" width="30px" alt="Twitter"></a>
   &nbsp;
   &nbsp;
   <a rel="nofollow noopener noreferrer" target="_blank" href="http://www.republiquedesmangues.fr/">
